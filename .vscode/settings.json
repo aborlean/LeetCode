@@ -12,6 +12,8 @@
         "string": "cpp",
         "array": "cpp",
         "queue": "cpp",
-        "string_view": "cpp"
+        "string_view": "cpp",
+        "memory": "cpp",
+        "utility": "cpp"
     }
 }
